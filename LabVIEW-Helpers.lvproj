@@ -16,9 +16,15 @@
 				<Property Name="utf.test.bind" Type="Str">Set Cluster Values from JSON String.vi</Property>
 				<Property Name="utf.vector.test.bind" Type="Str">0E283C68-4D9F-C428-3C24-2C144CBB27B3</Property>
 			</Item>
+			<Item Name="Set Cluster Values from Pathed JSON String.lvtest" Type="TestItem" URL="../unit-tests/Set Cluster Values from Pathed JSON String.lvtest">
+				<Property Name="utf.test.bind" Type="Str">Set Cluster Values from Pathed JSON String.vi</Property>
+				<Property Name="utf.vector.test.bind" Type="Str">B3802B4E-E460-130F-D4B0-41C6E455BAFA</Property>
+			</Item>
 			<Item Name="Setup Set Cluster Values from JSON String.vi" Type="VI" URL="../unit-tests/Setup Set Cluster Values from JSON String.vi"/>
+			<Item Name="Setup Set Cluster Values from Pathed JSON String.vi" Type="VI" URL="../unit-tests/Setup Set Cluster Values from Pathed JSON String.vi"/>
 		</Item>
 		<Item Name="Set Cluster Values from JSON String.vi" Type="VI" URL="../Set Cluster Values from JSON String.vi"/>
+		<Item Name="Set Cluster Values from Pathed JSON String.vi" Type="VI" URL="../Set Cluster Values from Pathed JSON String.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
